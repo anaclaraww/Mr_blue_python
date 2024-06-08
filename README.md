@@ -1,4 +1,4 @@
-## Repositório Python para Análise e Detecção de Garrafas Plásticas nos Oceanos
+## Mr. Blue - Python para Análise e Detecção de Garrafas Plásticas nos Oceanos
 
 Este repositório contém ferramentas e scripts Python para analisar e detectar garrafas plásticas nos oceanos. O objetivo principal é auxiliar na compreensão do impacto da poluição plástica no meio ambiente marinho e contribuir para o desenvolvimento de soluções para esse problema ambiental crítico.
 
