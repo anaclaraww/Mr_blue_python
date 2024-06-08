@@ -8,9 +8,9 @@ Este repositório contém ferramentas e scripts Python para analisar e detectar 
     * **global-plastic-waste-emitted-to-the-ocean.csv:** Conjunto de dados contendo informações sobre a quantidade de plastico dispersada pelos países e continentes em 2019.
     * **plastic-top-20-rivers.csv:** Conjunto de dados contendo informações sobre a quantidade de plastico dispersada por alguns países e continentes em 2015.
 * **notebooks:**
-    * **data_analytics.ipynb:** Notebook Jupyter contendo análises exploratórias e visualizações dos dados presentes no arquivo `dados.csv`.
+    * **data_analytics.ipynb:** Notebook Jupyter contendo análises exploratórias e visualizações dos dados presentes no arquivo `dados.csv`. *Confira o arquivo já executado no repositório
 * **yolo_detection:**
-    * **spp.py:** Script Python que utiliza o modelo YOLOv8 para detectar garrafas plásticas em imagens e gerar resultados em imagens.
+    * **app.py:** Script Python que utiliza o modelo YOLOv8 para detectar garrafas plásticas em imagens e gerar resultados em imagens.
  
 ```plaintext
 .
